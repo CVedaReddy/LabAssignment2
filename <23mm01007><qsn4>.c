@@ -2,7 +2,7 @@
 int main()
 {
     int year,x ;
-    printf(" enter the year:");
+    printf(" Enter the year:");
     scanf("%d",&year);
    if   ((year % 400) == 0 )
    {
